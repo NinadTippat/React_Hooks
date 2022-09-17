@@ -1,0 +1,32 @@
+.useStateArray{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+.box{
+    width: 800px;
+    border-radius: 10px;
+    height: 50px;
+    padding: 7px;
+    background-color: rgb(106, 67, 189);
+    color: white;
+    
+}
+.btn{
+    height: 40px;
+    width: 140px;
+    background-color:rgb(34, 71, 207);
+    color: white;
+    cursor: pointer;
+    border-radius: 15px;
+    outline: none;
+
+  }
+  
+  .btn2{
+    background-color: red;
+    width: 200px;
+    float: right;
+  }
